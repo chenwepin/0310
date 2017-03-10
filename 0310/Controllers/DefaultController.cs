@@ -11,7 +11,7 @@ namespace _0310.Controllers
         // GET: Default
         public ActionResult Index()
         {
-            ViewBag.Desc = "Hello Worldwewewewwwewewewewe";
+            ViewBag.Desc = "Hello World";
             return View();
         }
     }
